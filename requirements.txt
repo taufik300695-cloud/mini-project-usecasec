@@ -1,0 +1,6 @@
+streamlit       # framework web app
+google-generativeai    # SDK untuk memanggil Gemini
+pandas          # pengolahan data tabel
+matplotlib
+sqlalchemy
+psycopg2-binary
