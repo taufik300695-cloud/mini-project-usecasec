@@ -1,0 +1,11 @@
+# Daftar file yang TIDAK boleh ikut ter-upload ke GitHub:
+# (komentar di .gitignore harus berada di barisnya sendiri)
+
+# berisi API key rahasia
+.streamlit/secrets.toml
+# file environment variabel
+*.env
+# cache Python
+__pycache__/
+# cache notebook
+.ipynb_checkpoints/
